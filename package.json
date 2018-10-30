@@ -1,0 +1,26 @@
+{
+  "name": "quo",
+  "version": "0.0.0",
+  "description": "A simple fetcher to avoid mixing react-redux and API calls",
+  "main": "quo.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "quo",
+    "api",
+    "fetch",
+    "client",
+    "redux"
+  ],
+  "author": "Jo Colina <jo@jocolina.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmrcaga/quo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsmrcaga/quo/issues"
+  },
+  "homepage": "https://github.com/jsmrcaga/quo#readme"
+}
